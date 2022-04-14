@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning binary translation.
 
+My personal notes are here [xieby1.github.io](https://xieby1.github.io/).
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xieby1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
